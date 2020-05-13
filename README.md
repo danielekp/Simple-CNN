@@ -1,4 +1,4 @@
-# deeplearningstuff
+# Simple CNN
 
 Simple CNN based model to train with cifar10 dataset. The program takes several parameters: epochs, train batch size, test batch size, learning rate .. . --help call on the program to get more information.
 
